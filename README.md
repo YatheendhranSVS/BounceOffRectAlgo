@@ -1,2 +1,2 @@
-# BounceOffRectAlgo
-Algo for bouncing off 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
